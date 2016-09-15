@@ -1,0 +1,15 @@
+{
+  "name": "test-upack",
+  "version": "1.0.0",
+  "description": "A magic component",
+  "main": "index.js",
+  "author": "yanlongbo<yanlongbo@58ganji.com>",
+  "dependencies": [],
+  "devDependencies": [],
+  "exclude": [
+    "docs",
+    "examples",
+    "test",
+    "README.md"
+  ]
+}

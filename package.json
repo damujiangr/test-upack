@@ -1,0 +1,13 @@
+{
+  "name": "test-upack",
+  "version": "1.0.0",
+  "description": "A magic component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "major": "upack version major && git push --follow-tags",
+    "minor": "upack version minor && git push --follow-tags",
+    "patch": "upack version patch && git push --follow-tags"
+  },
+  "author": "yanlongbo<yanlongbo@58ganji.com>"
+}
